@@ -2,9 +2,13 @@
 ***
 ### Contacts
 **Location:** Moscow, Russia
+
 **Phone:** +7(910)482-51-28
+
 **E-mail:** anna_kr@list.ru
+
 **Discord:** Anna Kr (@krivoshapkinaanna)
+
 **[GIthub](https://github.com/krivoshapkinaanna)**
 ***
 
@@ -22,12 +26,9 @@ Analytical mind, attention to details, diligence are my strong qualities which w
 
 ### Code example
 ```
-let onCardEscPress = function (evt) {
-    if (evt.key === 'Escape') {
-      evt.preventDefault();
-      closeCard();
-    }
-  };
+function multiply(a, b){
+  return a * b
+}
 ```
 ***
 
