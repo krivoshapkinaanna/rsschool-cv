@@ -1,6 +1,8 @@
 # Anna Krivoshapkina
 ***
-![profile photo](/Users/AnnKr/rsschool-cv/IMG_6421.HEIC)
+<img src="https://sun9-42.userapi.com/impf/fsxvxOVJhxaS2SVh4u6LfzhIIVIJ-x-wl-3tOQ/VhKOLQFkeag.jpg?size=691x900&quality=96&sign=213db8e5a5a4af76fc813a7d35a35fa9&type=album" alt="profile photo" width="150px" height="200px">
+
+***
 ### Contacts
 **Location:** Moscow, Russia
 
