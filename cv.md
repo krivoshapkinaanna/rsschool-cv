@@ -1,5 +1,6 @@
 # Anna Krivoshapkina
 ***
+![profile photo](/Users/AnnKr/rsschool-cv/IMG_6421.HEIC)
 ### Contacts
 **Location:** Moscow, Russia
 

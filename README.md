@@ -1,1 +1,1 @@
-# rsschool-cv
+https://krivoshapinaanna.github.io/rsschool-cv/cv
